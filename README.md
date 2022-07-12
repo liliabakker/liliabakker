@@ -1,6 +1,6 @@
 ### Oiii, eu sou a Lilia Bakker
 
-- 🌱 Estudando Engenharia de Dados
+- 🌱 Sou Engenheira de Dados
 
 <div align="center">
   <a href="https://github.com/liliabakker">
