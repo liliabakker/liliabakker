@@ -24,6 +24,10 @@
    <a href = "mailto:liliabakker.lb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/lilia-bakker-9207a067/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-
-
 </div>
+
+##
+
+### Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liliabakker&repo=Projeto_Final_Eng_Dados&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
