@@ -30,4 +30,4 @@
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liliabakker&repo=Projeto_Final_Eng_Dados&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=liliabakker&repo=Projeto_Final_Eng_Dados&theme=dracula)]( https://liliabakker.github.io/Projeto_Final_Eng_Dados/)
