@@ -1,6 +1,6 @@
 ### Oiii, eu sou a Lilia Bakker
 
-- 🌱 Sou Engenheira de Dados
+- 🌱 Entusiasta da área de Dados
 - 📊 Graduanda em Ciências de Dados
 
 <div align="center">
