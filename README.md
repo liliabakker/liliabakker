@@ -1,7 +1,7 @@
 ### Oiii, eu sou a Lilia Bakker
 
 - 🌱 Entusiasta da área de Dados
-- 📊 Graduanda em Ciências de Dados
+- 📊 Graduada em Ciências de Dados
 
 <div align="center">
   <a href="https://github.com/liliabakker">
